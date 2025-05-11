@@ -14,7 +14,7 @@ This project was developed following modern JavaScript best practices and clean 
 
 
 
-🚀 Features
+*🚀 Features*
 
 Recipe search and filtering
 
@@ -28,7 +28,7 @@ Follows MVC architecture
 
 
 
-🛠️ Technologies Used
+*🛠️ Technologies Used*
 
 JavaScript (ES6+)
 
