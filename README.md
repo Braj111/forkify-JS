@@ -12,6 +12,8 @@ Bookmark favorite recipes for quick access
 
 This project was developed following modern JavaScript best practices and clean code principles.
 
+
+
 🚀 Features
 
 Recipe search and filtering
@@ -23,6 +25,8 @@ Bookmarking functionality
 Responsive, user-friendly UI
 
 Follows MVC architecture
+
+
 
 🛠️ Technologies Used
 
