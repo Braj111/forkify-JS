@@ -4,9 +4,10 @@
 
 Forkify is a recipe application that allows users to:
 
-Search and explore a wide variety of recipes from an external API
-Add their own custom recipes
-Bookmark favorite recipes for quick access
+Search and explore a wide variety of recipes from an external API \n
+Add their own custom recipes \n
+Bookmark favorite recipes for quick access \n
+
 This project was developed following modern JavaScript best practices and clean code principles.
 
 🚀 Features
